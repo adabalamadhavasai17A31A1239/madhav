@@ -1,0 +1,45 @@
+{
+"basic":{
+"image":"mad1.jpg",
+"name":"madhav adabala",
+"email":"madhavsaiadabala.mars@gmail.com",
+"nuber":"+91-9398132757",
+"address":"rajahmundry."
+},
+"carinfo":{
+  "career":"Energetic and passionate entry-level professional seeking a full-time janitorial position."
+},
+  "education":[
+    {
+  "instution":"pragati college",
+  "degree":"b.tech",
+  "passout":"2021"
+  },
+  {
+   "instution":"tirumala junior college",
+   "degree":"inter",
+  "passout":"2017"
+
+},
+{
+"instution":"keshavareddy SCHOOL",
+"degree":"SSC",
+"passout":"2014"
+}
+],
+"Skills" :[
+  {
+  "title":"progamming languages",
+  "content":["c","java","webapplicatoins"]
+
+},
+{
+"title":"operating systems",
+"content":["XP10","Linux","UBUNTU"]
+},
+{
+"title":"Databases",
+"content":["indexDBD","mysql","oracle"]
+}
+]
+}
